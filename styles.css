@@ -1,0 +1,77 @@
+
+
+body {
+    margin: 0;
+    text-align: center;
+    color:white;
+    font-family: 'Oswald', sans-serif;
+    text-shadow: 2px 2px 10px black;
+    background-color: black;
+}
+
+img {
+    width: 475px;
+    height: 500px;
+}
+
+#foto-juan{
+    width: 200px;
+    height: 200px;
+}
+
+#title{
+    margin-top: 100px;
+}
+.text{
+    background-color: black;
+    margin: 0px;
+    padding: 10px 10px 10px 10px;
+}
+#top{
+    padding-top: 400px;
+    background-image: url(images/sbview.jpeg);
+    background-size:cover;
+    padding:10px 0px 220px;
+    background-position: center;
+}
+#top:hover{
+    transition-duration: 3s;
+    background-image: url(images/sbview.jpeg);
+    background-position:center ;
+}
+
+#top:hover{
+    transition-duration: 3s;
+    background-image: url(images/sbview.jpeg);
+    background-position:top ;
+}
+#separation{
+    background-color:black;
+    padding-top: 10px;
+    align-items: center;
+
+}
+#team{
+     padding-top: 10px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.single-team{
+    display: flex;
+    justify-content: space-around;
+}
+
+#idk{
+    background-color: black;
+}
+
+#bottom{
+    display: flex;
+    padding-top: 10px;
+    background-color: black;
+    align-items: center;
+
+}
