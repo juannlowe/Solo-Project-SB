@@ -71,6 +71,7 @@ img {
 #bottom{
     display: flex;;
     align-items: center;
+    justify-content: center;
     padding: 1rem;
 
 
@@ -78,5 +79,5 @@ img {
 
 .img-juan{
     border-radius: 50%;
-    padding-left: 1rem;
+    padding: 1rem;
 }
